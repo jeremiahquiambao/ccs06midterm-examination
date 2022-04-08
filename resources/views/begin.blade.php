@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="container-sm">
-    <h1>Enter the Full Name of Students</h1>
+    <h1><strong>Enter the Full Name of Students</strong></h1>
 
     <form action="/enter-grades" method="POST">
     @csrf

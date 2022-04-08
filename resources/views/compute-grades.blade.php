@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="container-sm">
-    <h1><b>The Average Grade of Students</b></h1>
+    <h1><strong>The Average Grade of Students</strong></h1>
 
     <table class="table table-striped table-hover">
     <thead>

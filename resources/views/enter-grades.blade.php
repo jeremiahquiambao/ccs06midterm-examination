@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="container-sm">
-    <h1>Enter the Students' Grades</h1>
+    <h1><strong>Enter the Grade of the Folllowing Students</strong></h1>
 
     <form action="/compute-grades" method="POST">
     <input type="hidden" name="student_1" value="{{ $student_1 }}">
